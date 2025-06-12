@@ -3,6 +3,9 @@
 
 A machine learning project to predict if a loan application is likely to be **accepted** based on applicant information.
 
+![](images/12.png)
+
+
 ## 🚀 Quick Overview
 
 - **Tech Stack**: Python, Scikit-learn, Streamlit
