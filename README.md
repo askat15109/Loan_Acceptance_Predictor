@@ -5,6 +5,8 @@ A machine learning project to predict if a loan application is likely to be **ac
 
 ![](image/12.png)
 
+![](image/23.png)
+
 
 ## 🚀 Quick Overview
 
